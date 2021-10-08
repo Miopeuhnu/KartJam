@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karting/Scenes/IntroMenu.unity
+    guid: d29260d8d84c94bd7ac95807b3da99d4
+  - enabled: 1
+    path: Assets/Karting/Scenes/SmalltownUsa.unity
+    guid: 08a57001b355c51409b36fc87ebc8d7e
+  - enabled: 1
+    path: Assets/Karting/Scenes/Metroplis.unity
+    guid: 268f015764452b54392d139ccefe3548
+  - enabled: 1
+    path: Assets/Karting/Scenes/SpookytownUSA.unity
+    guid: 922e88ecc2315ed4ca318eec03a24b7f
+  - enabled: 1
+    path: Assets/Karting/Scenes/CrisisCity.unity
+    guid: 3038932ae1883b94cb98b49c3ff6ed68
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  m_configObjects: {}
